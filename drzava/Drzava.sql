@@ -67,4 +67,7 @@ where sifra=4;
 update mjesto set naziv='mjesto5'
 where sifra=5;
 
+delete from mjesto where sifra=2;
+delete from mjesto where sifra=4;
+
 
