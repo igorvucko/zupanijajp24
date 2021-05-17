@@ -52,3 +52,19 @@ values(1,'Višnjevac'),(2,'Prigajci'),(3,'Mirkovci'),(1,'Podravlje'),
 (2,'Stupnik'),(3,'Èuturevci'),(6,'Tvrðavica'),(5,'Sevljanci'),
 (6,'Kitišanci'),(4,'Mirkovci'),(4,'Viljkovci'),(5,'Šiškovci');
 
+update mjesto set naziv='mjesto1'
+where sifra=1;
+
+update mjesto set naziv='mjesto2'
+where sifra=2;
+
+update mjesto set naziv='mjesto3'
+where sifra=3;
+
+update mjesto set naziv='mjesto4'
+where sifra=4;
+
+update mjesto set naziv='mjesto5'
+where sifra=5;
+
+
