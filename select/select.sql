@@ -93,3 +93,6 @@ select * from city where name like '%Donji Miholjac%';
 # promjenite Donji Miholjac u Špièkovinu
 select * from city;
 update city set Name='spickovina' where ID=4080;
+
+# obrišite mjesto Špièkovina
+delete from city where ID=4080; 
